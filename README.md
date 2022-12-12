@@ -1,0 +1,1 @@
+This project converts a proper roman numeral string to its equivalent number (max: 4000)
